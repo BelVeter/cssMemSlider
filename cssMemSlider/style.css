@@ -72,6 +72,10 @@ img{
     cursor: pointer;
 }
 
+.controlls > .controll:active {
+    transform: scale(1.2);
+}
+
 .controll-span{
     border: solid 0.1rem white;
     border-radius: 50%;
